@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/575be7f9-a32e-4439-bbac-4530e295be6c
+View your app in AI Studio: [https://ai.studio/apps/575be7f9-a32e-4439-bbac-4530e295be6c](https://ai-meme-generator-1-ulix.onrender.com/)
 
 ## Run Locally
 
