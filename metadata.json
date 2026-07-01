@@ -1,0 +1,6 @@
+{
+  "name": "AI Meme Generator",
+  "description": "Create hilarious memes using AI-powered image analysis, custom template selection, text overlay editing, and automatic caption generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
